@@ -1,3 +1,4 @@
+![logo](https://github.com/Mrinmayee-Sarkar/Mrinmayee-Sarkar/blob/main/Neon%20Modern%20Futuristic%20Simple%20Gaming%20YouTube%20Banner%20.png)
 <h1 align="center">Hi 👋, Welcome to my profile! I'm Mrinmayee Sarkar</h1>
 <h3 align="center">I'm a self-taught web developer with a passion for bringing digital ideas to life through both front-end and back-end magic.</h3>
 <h3 align="center">  There's something incredibly satisfying about solving complex problems and seeing my code come to life in real time. I thrive in dynamic environments where I can collaborate with talented teams, share ideas, and create something significant together.</h3>
